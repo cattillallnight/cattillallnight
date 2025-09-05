@@ -1,9 +1,9 @@
 # 💫About Me :
-🔭 🇻🇳 : I'm from VietNam
-🌱 Here is my personal website
-👯 There is my blog and articles
-🤔 Contact me at quyentttiace200993@gmail.com
-💬 I'm passionate about Cyber Security
+🔭 - 🇻🇳 : I'm from VietNam
+🌱 - Here is my personal website
+👯 - There is my blog and articles
+🤔 - Contact me at quyentttiace200993@gmail.com
+💬 - I'm passionate about Cyber Security
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/cattillallnight) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thuy.quyen.492870/?locale=vi_VN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cattillallnight) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thuy-quyen-tran) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Fluffy_Web5915/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@thuyquyen2k6) 
